@@ -49,11 +49,6 @@ You can increment, decrement, or reset the counter — a perfect beginner JavaSc
 | CSS       | Styling & layout |
 | JavaScript | Counter logic |
 
-Badges example:
-![HTML](https://img.shields.io/badge/HTML-5-orange)
-![CSS](https://img.shields.io/badge/CSS-3-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-
 ---
 
 ## 📌 Future Improvements
