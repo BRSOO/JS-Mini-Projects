@@ -13,7 +13,7 @@ You can increment, decrement, or reset the counter — a perfect beginner JavaSc
 
 ## 📸 Preview
 
-![App Screenshot](.counter.jpg)
+<img src="counter.jpg" align="center">
 
 ---
 
